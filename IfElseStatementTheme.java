@@ -258,7 +258,7 @@ public class IfElseStatementTheme {
             System.out.println("Выдано: " + requiredCash +
                     "\nКупюры по 100$: " + hundredUser +
                     "\nКупюры по 10$: " + tenUser +
-                    "\nКупюры по 1$: " + oneUser); 
+                    "\nКупюры по 1$: " + oneUser);
         }
     }
 
