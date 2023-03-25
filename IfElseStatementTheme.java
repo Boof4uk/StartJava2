@@ -10,9 +10,8 @@ public class IfElseStatementTheme {
         defineAssessmentSubject();
         caclculatingAnnualProfit();
         calculatingAmountBanknotes();
-
-
     }
+    
     public static void translationOfPdeudocodeInJava() {
         System.out.println("(1) Перевод псевдокода на язык Java");
 
