@@ -90,9 +90,7 @@ public class IfElseStatementTheme {
         int HundredsNum2 = num2 / 100;
         int tensNum2 = num2 % 100 / 10;
         int OnesNum2 = num2 % 10;
-
         System.out.println("Исходные числа: " + num1 + " и " + num2); 
-
         if (HundredsNum1 != HundredsNum2 & tensNum1 != tensNum2 &
                  OnesNum1 != OnesNum2) {
                 System.out.println("Совпадений среди цифр в числах нет"); 
@@ -214,5 +212,4 @@ public class IfElseStatementTheme {
                     "\nКупюры по 1$: " + oneUser);
         }
     }
-
 }
